@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowAuthoringUI", "WorkflowAuthoringUI\WorkflowAuthoringUI.csproj", "{A657537A-DED7-46B0-8AE9-A50FDD748EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowAuthoringFactory", "WorkflowAuthoringFactory\WorkflowAuthoringFactory.csproj", "{C032E966-4575-4670-AFB9-AB478C1CC614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		TFSBuild|Any CPU = TFSBuild|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A657537A-DED7-46B0-8AE9-A50FDD748EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A657537A-DED7-46B0-8AE9-A50FDD748EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A657537A-DED7-46B0-8AE9-A50FDD748EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A657537A-DED7-46B0-8AE9-A50FDD748EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A657537A-DED7-46B0-8AE9-A50FDD748EEE}.TFSBuild|Any CPU.ActiveCfg = Release|Any CPU
+		{A657537A-DED7-46B0-8AE9-A50FDD748EEE}.TFSBuild|Any CPU.Build.0 = Release|Any CPU
+		{C032E966-4575-4670-AFB9-AB478C1CC614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C032E966-4575-4670-AFB9-AB478C1CC614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C032E966-4575-4670-AFB9-AB478C1CC614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C032E966-4575-4670-AFB9-AB478C1CC614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C032E966-4575-4670-AFB9-AB478C1CC614}.TFSBuild|Any CPU.ActiveCfg = Release|Any CPU
+		{C032E966-4575-4670-AFB9-AB478C1CC614}.TFSBuild|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TextTemplating) = postSolution
+		TextTemplating = 1
+	EndGlobalSection
+EndGlobal
