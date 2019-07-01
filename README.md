@@ -2,7 +2,7 @@
 Use this code sample to author and deploy workflows using code. This code sample is relevant for K2 systems that were upgraded from K2 4.7 to K2 Five and still have access to the Silverlight Workflow designer. Clean installs of K2 Five do not currently have this functionality.
 
 Find more information in the K2 Developers Reference here:
-https://help.k2.com/onlinehelp/k2five/DevRef/current/default.htm#Designtime/WF-Authoring.html
+About Authoring Processes (Legacy): https://help.k2.com/onlinehelp/k2five/DevRef/current/default.htm#Designtime/WF-Authoring.html
 
 Authoring processes programmatically allows you to automate the creation and deployment of workflows. You can open the processes you created in the K2 Designer for Visual Studio to validate it and for additional functionality.
 
